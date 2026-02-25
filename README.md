@@ -1,4 +1,4 @@
-### Repositório destinado a exercícios de fixação do freeCodeCamp
+#### Repositório destinado a exercícios de fixação do freeCodeCamp
 
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Vite](https://img.shields.io/badge/Vite-5-purple)
@@ -12,16 +12,19 @@
 ## Instalação
 
 ```
-git clone
+1. git clone
 
-cd freecodecamp-react
+2. cd freecodecamp-react
 
-npm install
+3. npm install
 
-npm run dev
+4. npm run dev
 ```
 
 ------------------------------
-
-#### Exercício 01: useState, alternando true/false com `!` e renderização condicional.
+|Exercício|Tópicos|
+| :--- | :--- |
+|*01* | useState; alternando true/false com `!`; renderização condicional.|
+|*02* ||
+|*03* ||
 
