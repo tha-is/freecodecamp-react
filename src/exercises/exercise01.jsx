@@ -11,7 +11,8 @@ function Exercise01() {
 
   return (
     <>
-    <button onClick={handleVisibilidade}>Mensagem</button>
+    <button onClick={handleVisibilidade}>
+      {visivel ? "Esconder" : "Mostrar"} a mensagem</button>
       {visivel && <p>
         O useState do React está declarado como false e
         ao clicar no botão o estado vai alternando (!) entre true/false.</p>}
