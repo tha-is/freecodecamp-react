@@ -26,11 +26,10 @@ const customFontColor = {
 }
 
     return (
-        <div style={{ backgroundColor: bgColor, width: '300px', height: '300px', padding:'5px' }} value={bgColor}>
+        <div style={{ backgroundColor: bgColor, padding:'5px' }} value={bgColor} className="d-flex flex-column p-5 align-items-center">
             <h6 style={customFontColor}>
                 Selecione a cor no input abaixo para mudar o background do elemento</h6>
-            <input type="color" value={bgColor} onChange={handleChange} 
-            style={{width: '25%', height: '25%', cursor: 'pointer', backgroundColor: '#ffffff'}}/>
+            <input type="color" onChange={handleChange} />
         </div>
 
     )
