@@ -22,9 +22,9 @@
 ```
 
 ------------------------------
-|Exercício|Tópicos|
-| :--- | :--- |
-|*01* | useState; alternando true/false com `!`; renderização condicional.|
-|*02* ||
+|Exercício|Tópicos|Descrição|
+| :--- | :--- | :--- |
+|*01* | useState; alternando true/false com `!`; renderização condicional.| Botão que alterna a visualização da mensagem.|
+|*02* | useState; renderização condicional; evento onChange, target | Background do componente atualiza de acordo com a cor selecionada no input color.|
 |*03* ||
 
