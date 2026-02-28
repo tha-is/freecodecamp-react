@@ -26,5 +26,5 @@
 | :--- | :--- | :--- |
 |*01* | useState; alternando true/false com `!`; renderização condicional.| Botão que alterna a visualização da mensagem.|
 |*02* | useState; renderização condicional; evento onChange, target | Background do componente atualiza de acordo com a cor selecionada no input color.|
-|*03* ||
+|*03* | useState, useEffect, await, fetch, async, API, map, condicional | Aplicativo de busca com carregamento e consumo de API pública sobre países. |
 
