@@ -2,7 +2,7 @@ import { useState } from "react";
 import Exercise01 from "./exercises/exercise01.jsx";
 import Exercise02 from "./exercises/exercise02.jsx";
 import Exercise03 from "./exercises/exercise03.jsx";
-
+import Exercise04 from "./exercises/exercise04.jsx";
 
 export default function App() {
 
@@ -11,7 +11,8 @@ export default function App() {
   const exercises = [
     { id: 1, component: <Exercise01 /> },
     { id: 2, component: <Exercise02 /> },
-    { id: 3, component: <Exercise03 /> }
+    { id: 3, component: <Exercise03 /> },
+    { id: 4, component: <Exercise04 /> },
   ];
 
   return (
